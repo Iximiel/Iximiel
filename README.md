@@ -17,9 +17,9 @@ My job was always in translating or in interfaces:
 I am primarily a C++ developer, I have a love-hate relationship with Python, and I do like setting up bash scripts (I can use arrays!).
 I am familiar with CMake and with writing Makefiles, and I also have the basis to interact with Autotools.
 
-📫 My private e-mail is "iximiel [at] gmail [dot] com"
+My private e-mail is "iximiel [at] gmail [dot] com"
 
-👀 I do like talking about and interacting with videogames, tabletop games, game design, and storytelling.
+I do like talking about and interacting with videogames, tabletop games, game design, and storytelling.
 <!---
 Iximiel/Iximiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
